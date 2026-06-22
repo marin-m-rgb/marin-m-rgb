@@ -1,16 +1,13 @@
-## Hi there 👋
+# Hi there, I'm Mayerly Marin Giraldo 👋
 
-<!--
-**marin-m-rgb/marin-m-rgb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a professional passionate about software development, product design, and creating user-centered solutions. I enjoy bridging the gap between visual design and functional code.
 
-Here are some ideas to get you started:
+**About Me:**
+* Currently developing the "Hunter Rental App", a peer-to-peer platform built with React Native and TypeScript, featuring interactive map integrations.
+* Focused on UI/UX design and mapping out clear, intuitive user flows.
+* Always eager to learn new technologies and tackle complex project management challenges.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Connect with me:**
+* [LinkedIn](https://www.linkedin.com/in/mayerly-marin-02276220a)
+* [Behance Portfolio](https://www.behance.net/mayerlygmarn)
+* Email: mayerly.maringiraldo@georgebrown.ca
