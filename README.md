@@ -11,3 +11,4 @@ I am a professional passionate about software development, product design, and c
 * [LinkedIn](https://www.linkedin.com/in/mayerly-marin-02276220a)
 * [Behance Portfolio](https://www.behance.net/mayerlygmarn)
 * Email: mayerly.maringiraldo@georgebrown.ca
+* About me: https://marin-m-rgb.github.io/my-web-portfolio/
