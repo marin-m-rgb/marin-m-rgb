@@ -1,4 +1,4 @@
-# Hi there, I'm Mayerly Marin Giraldo 👋
+# Hi there, I'm Mayerly Marin Giraldo 
 
 I am a professional passionate about software development, product design, and creating user-centered solutions. I enjoy bridging the gap between visual design and functional code.
 
